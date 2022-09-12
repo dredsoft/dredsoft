@@ -549,9 +549,9 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: transparent;
-  font-weight: 400;
-  color: yellow;
+  color: transparent !important;
+  font-weight: 400 !important;
+  color: yellow !important;
 }
 
 /* .teal-text {
