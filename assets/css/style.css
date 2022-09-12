@@ -564,6 +564,11 @@ small {
   color: yellow !important;
 }
 
+.sub-teal {
+  background-color: #008073 !important;
+  color: white !important;
+}
+
 /* .teal {
   background-color: #00695c !important;
 } */
