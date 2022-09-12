@@ -549,7 +549,9 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: transparent;
+  font-weight: 400;
+  color: yellow;
 }
 
 /* .teal-text {
@@ -559,7 +561,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: transparent;
 }
 
 /* .teal {
