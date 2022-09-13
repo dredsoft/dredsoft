@@ -322,6 +322,7 @@ h3 {
 #intro.section {
   background: #a7ffeb repeat;
   position: relative;
+  padding-bottom: 0px;
 }
 
 #intro.section .container {
@@ -662,7 +663,8 @@ small {
 
 video {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 @media (max-width: 600px) {
