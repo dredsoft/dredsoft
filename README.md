@@ -1,4 +1,4 @@
-## Welcome to Dredsoft 📦
+## 👦🏼👋 Welcome to Dredsoft 👋👦🏼
 
 For over 10 years we have been developing custom IT solutions for medium-sized businesses and corporations. We specialize in Logistics & Supply Chain, and also have extensive experience in Real estate and B2B eCommerce1. We help companies to reduce operating costs through custom software development. We deeply immerse ourselves in the client's business, searching for and making only those decisions that are relevant to business goals. We intelligently manage processes, work on sprints, meet deadlines.
 
